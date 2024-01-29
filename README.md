@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="src/imagens/title-ps4.png" width="200" />
+  <img alt="Logo" src="./src/imagens/logo-gta-v.svg" width="200" />
 </div>
 <h1 align="center">
-  Matías Ezequiel Correa - Projeto "Spider-Verse" 🕷🕸
+  Matías Ezequiel Correa - Projeto "Grand Theft Auto V" 🚗🎮
 </h1>
 <p align="center">
-  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-spider-verse/" target="_blank">Projeto Spider-Verse | By Matías Correa,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-site-gtav/" target="_blank">Projeto Grand Theft Auto V - Web | By Matías Correa,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
@@ -15,7 +15,7 @@
 * Mobile:
 [<p align="center"><img width=250 src="./src/design/projeto-spider-verse-mobile-video.gif" alt="Projeto Spider-Verse - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-spider-verse/)<p>
 
-### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-spider-verse/" target="_blank">matias-ezequiel-correa.github.io/projeto-spider-verse/</a>
+### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-site-gtav/" target="_blank">matias-ezequiel-correa.github.io/projeto-site-gtav/</a>
 
 ## Tecnologias utilizadas:
 
